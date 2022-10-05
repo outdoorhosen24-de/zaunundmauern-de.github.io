@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "zaunundmauern.de",
+    "hostname": "https://www.zaunundmauern.de/",
+    "email": "zaunundmauern.desurrealnetworks.io",
+    "organization": "zaunundmauern.de",
+    "logoText": "Zaunundmauern.de",
+    "title": "Z\u00e4une & Mauern",
+    "subline": "Der Online Shop f\u00fcr Z\u00e4une & Mauern",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "9565086",
+        "9561812",
+        "6041354",
+        "8657330",
+        "3154598",
+        "9565052"
+    ],
+    "winnerProducts": [
+        "4417275",
+        "3155330",
+        "9565086"
+    ],
+    "featuredCategories": [
+        "Sichtschutzmatten",
+        "Sichtschutzmatten",
+        "Sichtschutzmatten",
+        "Sichtschutzmatten",
+        "Draht & Zaungeflecht",
+        "Draht & Zaungeflecht"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Z\u00e4une & Mauern",
-        "featureText": "Your featured text goes here",
+        "featureText": "Z\u00e4une & Mauern ist ein Fachgesch\u00e4ft f\u00fcr Z\u00e4une und Mauern. Wir bieten Ihnen eine gro\u00dfe Auswahl an verschiedenen Z\u00e4unen und Mauern. Sie k\u00f6nnen bei uns auch verschiedene Zaunanlagen bestellen. Wir freuen uns auf Ihren Besuch!",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Z\u00e4une & Mauern - Alles f\u00fcr Ihren perfekten Garten!",
+            "metaDescription": "Z\u00e4une & Mauern - Alles f\u00fcr Ihren perfekten Garten! Hier finden Sie alles, was Sie f\u00fcr Ihren perfekten Garten brauchen.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Z\u00e4une & Mauern: Grenzen in unserer Welt",
+                    "text": "Z\u00e4une und Mauern sind ein wesentlicher Bestandteil unserer Umwelt. Sie dienen nicht nur als Grenze zwischen verschiedenen Bereichen, sondern auch als Schutz vor Gefahren. Z\u00e4une und Mauern k\u00f6nnen aus verschiedenen Materialien wie Holz, Metall oder Stein errichtet werden. Sie k\u00f6nnen auch aus verschiedenen H\u00f6hen und Breiten bestehen.\n\nZ\u00e4une und Mauern sind in der Regel an den R\u00e4ndern von Grundst\u00fccken zu finden. Sie dienen dazu, das Grundst\u00fcck vor unerw\u00fcnschten Besuchern zu sch\u00fctzen. Z\u00e4une und Mauern k\u00f6nnen auch innerhalb eines Grundst\u00fccks errichtet werden, um bestimmte Bereiche voneinander zu trennen.\n\nZ\u00e4une und Mauern k\u00f6nnen aus verschiedenen Gr\u00fcnden errichtet werden. Zum Beispiel k\u00f6nnen sie dazu dienen, ein Grundst\u00fcck vor dem Zugriff von Tieren zu sch\u00fctzen. Sie k\u00f6nnen auch dazu dienen, die Privatsph\u00e4re eines Grundst\u00fccks zu wahren. In manchen F\u00e4llen werden Z\u00e4une und Mauern auch errichtet, um eine Gefahr von au\u00dfen abzuwehren.\n\nZ\u00e4une und Mauern sind in der Regel aus Holz, Metall oder Stein errichtet. Holzz\u00e4une sind in der Regel die preiswerteste Option. Metallz\u00e4une sind in der Regel langlebiger als Holzz\u00e4une, aber auch teurer. Steinmauern sind in der Regel die teuerste Option, aber auch die langlebigste.\n\nDie H\u00f6he und Breite eines Zauns oder"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Z\u00e4une & Mauern Shop",
+            "metaDescription": "Z\u00e4une & Mauern Shop - Hier findest du alles f\u00fcr deinen perfekten Zaun oder die perfekte Mauer!",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Z\u00e4une & Mauern: F\u00fchrender Hersteller",
+            "metaDescription": "Z\u00e4une & Mauern - Wir sind ein f\u00fchrender Hersteller von Z\u00e4unen und Mauern. Wir bieten hochwertige Produkte zu erschwinglichen Preisen.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT: Z\u00e4une & Mauern",
+        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Z\u00e4une & Mauern f\u00fcr Ihren Garten. Kaufen Sie online bei OBI und profitieren Sie von unserer gro\u00dfen Auswahl. $KATEGORIE",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Z\u00e4une & Mauern: $KATEGORIE f\u00fcr Ihren Garten",
+        "defaultMetaDescription": "$KATEGORIE Z\u00e4une & Mauern - Finden Sie die passende L\u00f6sung f\u00fcr Ihr Zuhause bei uns! Wir bieten Ihnen eine gro\u00dfe Auswahl an verschiedenen Z\u00e4unen und Mauern.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist Ihr kompetenter Ansprechpartner f\u00fcr Z\u00e4une und Mauern aller Art. Wir beraten Sie gerne und finden die perfekte L\u00f6sung f\u00fcr Ihr Anwesen!",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Z\u00e4une & Mauern",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Z\u00e4une & Mauern Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Z\u00e4une & Mauern Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
