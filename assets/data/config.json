@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "zaunundmauern.de",
     "hostname": "https://www.zaunundmauern.de/",
     "email": "zaunundmauern.desurrealnetworks.io",
     "organization": "zaunundmauern.de",
     "logoText": "Zaunundmauern.de",
-    "title": "Z\u00e4une & Mauern",
-    "subline": "Der Online Shop f\u00fcr Z\u00e4une & Mauern",
+    "title": "Zäune & Mauern",
+    "subline": "Der Online Shop für Zäune & Mauern",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -45,49 +45,49 @@
     ],
     "seo": {
         "htmlLang": "de",
-        "mainKeyword": "Z\u00e4une & Mauern",
-        "featureText": "Z\u00e4une & Mauern ist ein Fachgesch\u00e4ft f\u00fcr Z\u00e4une und Mauern. Wir bieten Ihnen eine gro\u00dfe Auswahl an verschiedenen Z\u00e4unen und Mauern. Sie k\u00f6nnen bei uns auch verschiedene Zaunanlagen bestellen. Wir freuen uns auf Ihren Besuch!",
+        "mainKeyword": "Zäune & Mauern",
+        "featureText": "Zäune & Mauern ist ein Fachgeschäft für Zäune und Mauern. Wir bieten Ihnen eine große Auswahl an verschiedenen Zäunen und Mauern. Sie können bei uns auch verschiedene Zaunanlagen bestellen. Wir freuen uns auf Ihren Besuch!",
         "index": {
-            "title": "Z\u00e4une & Mauern - Alles f\u00fcr Ihren perfekten Garten!",
-            "metaDescription": "Z\u00e4une & Mauern - Alles f\u00fcr Ihren perfekten Garten! Hier finden Sie alles, was Sie f\u00fcr Ihren perfekten Garten brauchen.",
+            "title": "Zäune & Mauern - Alles für Ihren perfekten Garten!",
+            "metaDescription": "Zäune & Mauern - Alles für Ihren perfekten Garten! Hier finden Sie alles, was Sie für Ihren perfekten Garten brauchen.",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Z\u00e4une & Mauern: Grenzen in unserer Welt",
-                    "text": "Z\u00e4une und Mauern sind ein wesentlicher Bestandteil unserer Umwelt. Sie dienen nicht nur als Grenze zwischen verschiedenen Bereichen, sondern auch als Schutz vor Gefahren. Z\u00e4une und Mauern k\u00f6nnen aus verschiedenen Materialien wie Holz, Metall oder Stein errichtet werden. Sie k\u00f6nnen auch aus verschiedenen H\u00f6hen und Breiten bestehen.\n\nZ\u00e4une und Mauern sind in der Regel an den R\u00e4ndern von Grundst\u00fccken zu finden. Sie dienen dazu, das Grundst\u00fcck vor unerw\u00fcnschten Besuchern zu sch\u00fctzen. Z\u00e4une und Mauern k\u00f6nnen auch innerhalb eines Grundst\u00fccks errichtet werden, um bestimmte Bereiche voneinander zu trennen.\n\nZ\u00e4une und Mauern k\u00f6nnen aus verschiedenen Gr\u00fcnden errichtet werden. Zum Beispiel k\u00f6nnen sie dazu dienen, ein Grundst\u00fcck vor dem Zugriff von Tieren zu sch\u00fctzen. Sie k\u00f6nnen auch dazu dienen, die Privatsph\u00e4re eines Grundst\u00fccks zu wahren. In manchen F\u00e4llen werden Z\u00e4une und Mauern auch errichtet, um eine Gefahr von au\u00dfen abzuwehren.\n\nZ\u00e4une und Mauern sind in der Regel aus Holz, Metall oder Stein errichtet. Holzz\u00e4une sind in der Regel die preiswerteste Option. Metallz\u00e4une sind in der Regel langlebiger als Holzz\u00e4une, aber auch teurer. Steinmauern sind in der Regel die teuerste Option, aber auch die langlebigste.\n\nDie H\u00f6he und Breite eines Zauns oder"
+                    "title": "Zäune & Mauern: Grenzen in unserer Welt",
+                    "text": "Zäune und Mauern sind ein wesentlicher Bestandteil unserer Umwelt. Sie dienen nicht nur als Grenze zwischen verschiedenen Bereichen, sondern auch als Schutz vor Gefahren. Zäune und Mauern können aus verschiedenen Materialien wie Holz, Metall oder Stein errichtet werden. Sie können auch aus verschiedenen Höhen und Breiten bestehen.\n\nZäune und Mauern sind in der Regel an den Rändern von Grundstücken zu finden. Sie dienen dazu, das Grundstück vor unerwünschten Besuchern zu schützen. Zäune und Mauern können auch innerhalb eines Grundstücks errichtet werden, um bestimmte Bereiche voneinander zu trennen.\n\nZäune und Mauern können aus verschiedenen Gründen errichtet werden. Zum Beispiel können sie dazu dienen, ein Grundstück vor dem Zugriff von Tieren zu schützen. Sie können auch dazu dienen, die Privatsphäre eines Grundstücks zu wahren. In manchen Fällen werden Zäune und Mauern auch errichtet, um eine Gefahr von außen abzuwehren.\n\nZäune und Mauern sind in der Regel aus Holz, Metall oder Stein errichtet. Holzzäune sind in der Regel die preiswerteste Option. Metallzäune sind in der Regel langlebiger als Holzzäune, aber auch teurer. Steinmauern sind in der Regel die teuerste Option, aber auch die langlebigste.\n\nDie Höhe und Breite eines Zauns oder"
                 }
             ]
         },
         "shop": {
-            "title": "Z\u00e4une & Mauern Shop",
-            "metaDescription": "Z\u00e4une & Mauern Shop - Hier findest du alles f\u00fcr deinen perfekten Zaun oder die perfekte Mauer!",
+            "title": "Zäune & Mauern Shop",
+            "metaDescription": "Zäune & Mauern Shop - Hier findest du alles für deinen perfekten Zaun oder die perfekte Mauer!",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Z\u00e4une & Mauern: F\u00fchrender Hersteller",
-            "metaDescription": "Z\u00e4une & Mauern - Wir sind ein f\u00fchrender Hersteller von Z\u00e4unen und Mauern. Wir bieten hochwertige Produkte zu erschwinglichen Preisen.",
+            "title": "Zäune & Mauern: Führender Hersteller",
+            "metaDescription": "Zäune & Mauern - Wir sind ein führender Hersteller von Zäunen und Mauern. Wir bieten hochwertige Produkte zu erschwinglichen Preisen.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT: Z\u00e4une & Mauern",
-        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Z\u00e4une & Mauern f\u00fcr Ihren Garten. Kaufen Sie online bei OBI und profitieren Sie von unserer gro\u00dfen Auswahl. $KATEGORIE",
+        "defaultTitle": "$PRODUKT: Zäune & Mauern",
+        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Zäune & Mauern für Ihren Garten. Kaufen Sie online bei OBI und profitieren Sie von unserer großen Auswahl. $KATEGORIE",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Z\u00e4une & Mauern: $KATEGORIE f\u00fcr Ihren Garten",
-        "defaultMetaDescription": "$KATEGORIE Z\u00e4une & Mauern - Finden Sie die passende L\u00f6sung f\u00fcr Ihr Zuhause bei uns! Wir bieten Ihnen eine gro\u00dfe Auswahl an verschiedenen Z\u00e4unen und Mauern.",
+        "defaultTitle": "Zäune & Mauern: $KATEGORIE für Ihren Garten",
+        "defaultMetaDescription": "$KATEGORIE Zäune & Mauern - Finden Sie die passende Lösung für Ihr Zuhause bei uns! Wir bieten Ihnen eine große Auswahl an verschiedenen Zäunen und Mauern.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist Ihr kompetenter Ansprechpartner f\u00fcr Z\u00e4une und Mauern aller Art. Wir beraten Sie gerne und finden die perfekte L\u00f6sung f\u00fcr Ihr Anwesen!",
+        "defaultMetaDescription": "$HERSTELLER ist Ihr kompetenter Ansprechpartner für Zäune und Mauern aller Art. Wir beraten Sie gerne und finden die perfekte Lösung für Ihr Anwesen!",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
@@ -132,19 +132,19 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Z\u00e4une & Mauern",
+            "linkTitle": "Zäune & Mauern",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Z\u00e4une & Mauern Shop",
+            "linkTitle": "Zäune & Mauern Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Z\u00e4une & Mauern Marken",
+            "linkTitle": "Zäune & Mauern Marken",
             "publish": true
         },
         {
