@@ -51,12 +51,15 @@
             "title": "Zäune & Mauern - Alles für Ihren perfekten Garten!",
             "metaDescription": "Zäune & Mauern - Alles für Ihren perfekten Garten! Hier finden Sie alles, was Sie für Ihren perfekten Garten brauchen.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Zäune & Mauern: Grenzen in unserer Welt",
-                    "text": "Zäune und Mauern sind ein wesentlicher Bestandteil unserer Umwelt. Sie dienen nicht nur als Grenze zwischen verschiedenen Bereichen, sondern auch als Schutz vor Gefahren. Zäune und Mauern können aus verschiedenen Materialien wie Holz, Metall oder Stein errichtet werden. Sie können auch aus verschiedenen Höhen und Breiten bestehen.\n\nZäune und Mauern sind in der Regel an den Rändern von Grundstücken zu finden. Sie dienen dazu, das Grundstück vor unerwünschten Besuchern zu schützen. Zäune und Mauern können auch innerhalb eines Grundstücks errichtet werden, um bestimmte Bereiche voneinander zu trennen.\n\nZäune und Mauern können aus verschiedenen Gründen errichtet werden. Zum Beispiel können sie dazu dienen, ein Grundstück vor dem Zugriff von Tieren zu schützen. Sie können auch dazu dienen, die Privatsphäre eines Grundstücks zu wahren. In manchen Fällen werden Zäune und Mauern auch errichtet, um eine Gefahr von außen abzuwehren.\n\nZäune und Mauern sind in der Regel aus Holz, Metall oder Stein errichtet. Holzzäune sind in der Regel die preiswerteste Option. Metallzäune sind in der Regel langlebiger als Holzzäune, aber auch teurer. Steinmauern sind in der Regel die teuerste Option, aber auch die langlebigste.\n\nDie Höhe und Breite eines Zauns oder"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Zäune & Mauern: Grenzen in unserer Welt",
+                        "text": "Zäune und Mauern sind ein wesentlicher Bestandteil unserer Umwelt. Sie dienen nicht nur als Grenze zwischen verschiedenen Bereichen, sondern auch als Schutz vor Gefahren. Zäune und Mauern können aus verschiedenen Materialien wie Holz, Metall oder Stein errichtet werden. Sie können auch aus verschiedenen Höhen und Breiten bestehen.\n\nZäune und Mauern sind in der Regel an den Rändern von Grundstücken zu finden. Sie dienen dazu, das Grundstück vor unerwünschten Besuchern zu schützen. Zäune und Mauern können auch innerhalb eines Grundstücks errichtet werden, um bestimmte Bereiche voneinander zu trennen.\n\nZäune und Mauern können aus verschiedenen Gründen errichtet werden. Zum Beispiel können sie dazu dienen, ein Grundstück vor dem Zugriff von Tieren zu schützen. Sie können auch dazu dienen, die Privatsphäre eines Grundstücks zu wahren. In manchen Fällen werden Zäune und Mauern auch errichtet, um eine Gefahr von außen abzuwehren.\n\nZäune und Mauern sind in der Regel aus Holz, Metall oder Stein errichtet. Holzzäune sind in der Regel die preiswerteste Option. Metallzäune sind in der Regel langlebiger als Holzzäune, aber auch teurer. Steinmauern sind in der Regel die teuerste Option, aber auch die langlebigste.\n\nDie Höhe und Breite eines Zauns oder"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Zäune & Mauern Shop",
