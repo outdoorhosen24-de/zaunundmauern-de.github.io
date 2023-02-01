@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "zaunundmauern.de",
     "hostname": "https://www.zaunundmauern.de/",
     "email": "zaunundmauern.de@surrealnetworks.io",
     "organization": "zaunundmauern.de",
     "logoText": "Zaunundmauern.de",
-    "title": "Zäune & Mauern",
-    "subline": "Der Online Shop für Zäune & Mauern",
+    "title": "Zaun & Drahtgeflecht",
+    "subline": "Der Online Shop für Zäune & Sichtschutzmatten",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Zäune & Mauern",
-        "featureText": "Zäune & Mauern ist ein Fachgeschäft für Zäune und Mauern. Wir bieten Ihnen eine große Auswahl an verschiedenen Zäunen und Mauern. Sie können bei uns auch verschiedene Zaunanlagen bestellen. Wir freuen uns auf Ihren Besuch!",
+        "featureText": "Herzlich willkommen auf zaunundmauern.de! Suchst du nach einem Drahtgeflecht, um dir deinen Zaun aufzustellen? Dann bist du bei uns genau richtig. Zusätzlich führen wir auch eine große Auswahl an Sichtschutzmatten, welche nicht nur aus Kunststoff wie PVC bestehen, sondern auch aus nachhaltigen Materialien, wie beispielsweise Bambus. Das ganze sogar in einer Gesamtlänge von bis zu 6 Meter!",
         "index": {
-            "title": "Zäune & Mauern - Alles für Ihren perfekten Garten!",
-            "metaDescription": "Zäune & Mauern - Alles für Ihren perfekten Garten! Hier finden Sie alles, was Sie für Ihren perfekten Garten brauchen.",
+            "title": "Sichtschutz für deinen Zaun",
+            "metaDescription": "Verstärke deinen Zaun mit einem Drahtgeflecht, oder schütze dich vor unerwünschten Blicken mit unseren Sichtschutzmatten aus PVC oder Bambus. ",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Zäune & Mauern Shop",
-            "metaDescription": "Zäune & Mauern Shop - Hier findest du alles für deinen perfekten Zaun oder die perfekte Mauer!",
+            "title": "Zaun & Sichtschutz | Online Shop",
+            "metaDescription": "In unserem Online Shop findest du nicht nur Drahtgeflecht für deinen Zaun, sondern auch Sichtschutz aus PVC oder Bambus zu einem günstigen Preis.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Zäune & Mauern: Führender Hersteller",
-            "metaDescription": "Zäune & Mauern - Wir sind ein führender Hersteller von Zäunen und Mauern. Wir bieten hochwertige Produkte zu erschwinglichen Preisen.",
+            "title": "Zaun & Sichtschutz | Hersteller Überblick",
+            "metaDescription": "Egal ob Drahtgeflecht, oder Sichtschutz für deinen Zaun - Unsere Produkte von Noor, GAH Alberts, Floraworld und vielen mehr zum fairen Preis.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT: Zäune & Mauern",
-        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Zäune & Mauern für Ihren Garten. Kaufen Sie online bei OBI und profitieren Sie von unserer großen Auswahl. $KATEGORIE",
+        "defaultTitle": "$PRODUKT",
+        "defaultMetaDescription": "Mit unserem Produkt $PRODUKT von dem namenhaften Hersteller $HERSTELLER, bieten wir dir das Beste aus dem Bereich $KATEGORIE. ",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Zäune & Mauern: $KATEGORIE für Ihren Garten",
-        "defaultMetaDescription": "$KATEGORIE Zäune & Mauern - Finden Sie die passende Lösung für Ihr Zuhause bei uns! Wir bieten Ihnen eine große Auswahl an verschiedenen Zäunen und Mauern.",
+        "defaultTitle": "$KATEGORIE | zaunundmauern.de",
+        "defaultMetaDescription": "Mit unseren Produkten von namenhaften Herstellern wie zum Beispiel Noor oder GAH Alberts bieten wir dir das Beste aus dem Bereich $KATEGORIE.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist Ihr kompetenter Ansprechpartner für Zäune und Mauern aller Art. Wir beraten Sie gerne und finden die perfekte Lösung für Ihr Anwesen!",
+        "defaultTitle": "$HERSTELLER | Qualität zum fairen Preis",
+        "defaultMetaDescription": "Mit unseren Produkten von $HERSTELLER können wir die das beste aus dem Bereich Zaun & Sichtschutz bieten. Kaufe jetzt günstig online auf zaunundmauern.de.",
         "defaultRobots": "index, follow",
         "brands": [
             {
