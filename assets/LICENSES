@@ -8,9 +8,6 @@
 /*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
 
-/*! https://mths.be/he v1.2.0 by @mathias | MIT license */
-
-
 /*!
   * vue-router v3.5.3
   * (c) 2021 Evan You
@@ -22,6 +19,9 @@
  * (c) 2014-2021 Evan You
  * Released under the MIT License.
  */
+
+
+/*! https://mths.be/he v1.2.0 by @mathias | MIT license */
 
 
 /*!
