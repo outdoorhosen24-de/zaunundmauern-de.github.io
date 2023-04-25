@@ -1,172 +1,175 @@
 {
-    "configIsReady": true,
-    "domain": "zaunundmauern.de",
-    "hostname": "https://www.zaunundmauern.de/",
-    "email": "zaunundmauern.de@surrealnetworks.io",
-    "organization": "zaunundmauern.de",
-    "logoText": "Zaunundmauern.de",
-    "title": "Zaun & Drahtgeflecht",
-    "subline": "Der Online Shop für Zäune & Sichtschutzmatten",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "9565086",
-        "9561812",
-        "6041354",
-        "8657330",
-        "3154598",
-        "9565052"
-    ],
-    "winnerProducts": [
-        "4417275",
-        "3155330",
-        "9565086"
-    ],
-    "featuredCategories": [
-        "Sichtschutzmatten",
-        "Sichtschutzmatten",
-        "Sichtschutzmatten",
-        "Sichtschutzmatten",
-        "Draht & Zaungeflecht",
-        "Draht & Zaungeflecht"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Zäune & Mauern",
-        "featureText": "Herzlich willkommen auf zaunundmauern.de! Suchst du nach einem Drahtgeflecht, um dir deinen Zaun aufzustellen? Dann bist du bei uns genau richtig. Zusätzlich führen wir auch eine große Auswahl an Sichtschutzmatten, welche nicht nur aus Kunststoff wie PVC bestehen, sondern auch aus nachhaltigen Materialien, wie beispielsweise Bambus. Das ganze sogar in einer Gesamtlänge von bis zu 6 Meter!",
-        "index": {
-            "title": "Sichtschutz für deinen Zaun",
-            "metaDescription": "Verstärke deinen Zaun mit einem Drahtgeflecht, oder schütze dich vor unerwünschten Blicken mit unseren Sichtschutzmatten aus PVC oder Bambus. ",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei Zaun und Mauern",
-                        "text": "Herzlich willkommen auf unserer Webseite Zaun und Mauern. Wir sind ein Online-Shop für hochwertige Zäune und Mauern, die den Schutz Ihres Grundstücks und Ihrer Privatsphäre gewährleisten. Unser Sortiment beinhaltet eine breite Auswahl an Draht- und Zaungeflechten sowie Sichtschutzmatten, die für jeden Bedarf und jeden Geschmack das passende Angebot bereithalten. Wir legen großen Wert auf Qualität und bieten daher nur Produkte von renommierten Herstellern an. Überzeugen Sie sich selbst und durchstöbern Sie unser Sortiment – wir freuen uns auf Ihre Bestellung!"
-                    },
-                    {
-                        "title": "Draht & Zaungeflecht",
-                        "text": "Entdecken Sie die Vielfalt an <a href=\"/kategorie/draht-zaungeflecht/\" title=\"Draht & Zaungeflecht\">Draht & Zaungeflecht</a> bei Zaunundmauern.de. Unsere robusten und langlebigen Draht- und Zaungeflechte eignen sich für eine Vielzahl von Anwendungen. Ob für den Garten, für den Einsatz auf Baustellen oder für den landwirtschaftlichen Bereich, unser Sortiment bietet Ihnen eine große Auswahl an Draht- und Zaungeflechten, die Ihren Anforderungen gerecht werden. Überzeugen Sie sich selbst von unseren Produkten und bestellen Sie noch heute."
-                    },
-                    {
-                        "title": "Sichtschutzmatten",
-                        "text": "Schaffen Sie sich Ihre ganz private Oase mit den <a href=\"/kategorie/sichtschutzmatten/\" title=\"Sichtschutzmatten\">Sichtschutzmatten</a> von Zaunundmauern.de. Unsere hochwertigen Sichtschutzmatten bieten Ihnen nicht nur Schutz vor neugierigen Blicken, sondern auch eine angenehme optische Abtrennung. Ob für den Garten, die Terrasse oder den Balkon, wir bieten Ihnen eine große Auswahl an Sichtschutzmatten in unterschiedlichen Größen und Designs. Entdecken Sie jetzt unser Angebot und bestellen Sie online."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Zaun & Sichtschutz | Online Shop",
-            "metaDescription": "In unserem Online Shop findest du nicht nur Drahtgeflecht für deinen Zaun, sondern auch Sichtschutz aus PVC oder Bambus zu einem günstigen Preis.",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Zaun & Sichtschutz | Hersteller Überblick",
-            "metaDescription": "Egal ob Drahtgeflecht, oder Sichtschutz für deinen Zaun - Unsere Produkte von Noor, GAH Alberts, Floraworld und vielen mehr zum fairen Preis.",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT",
-        "defaultMetaDescription": "Mit unserem Produkt $PRODUKT von dem namenhaften Hersteller $HERSTELLER, bieten wir dir das Beste aus dem Bereich $KATEGORIE. ",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "zaunundmauern.de",
+  "hostname": "https://www.zaunundmauern.de/",
+  "email": "zaunundmauern.de@surrealnetworks.io",
+  "organization": "zaunundmauern.de",
+  "logoText": "Zaunundmauern.de",
+  "title": "Zaun & Drahtgeflecht",
+  "subline": "Der Online Shop f\u00fcr Z\u00e4une & Sichtschutzmatten",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "9565086",
+    "9561812",
+    "6041354",
+    "8657330",
+    "3154598",
+    "9565052"
+  ],
+  "winnerProducts": [
+    "4417275",
+    "3155330",
+    "9565086"
+  ],
+  "featuredCategories": [
+    "Sichtschutzmatten",
+    "Sichtschutzmatten",
+    "Sichtschutzmatten",
+    "Sichtschutzmatten",
+    "Draht & Zaungeflecht",
+    "Draht & Zaungeflecht"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Z\u00e4une & Mauern",
+    "featureText": "Herzlich willkommen auf zaunundmauern.de! Suchst du nach einem Drahtgeflecht, um dir deinen Zaun aufzustellen? Dann bist du bei uns genau richtig. Zus\u00e4tzlich f\u00fchren wir auch eine gro\u00dfe Auswahl an Sichtschutzmatten, welche nicht nur aus Kunststoff wie PVC bestehen, sondern auch aus nachhaltigen Materialien, wie beispielsweise Bambus. Das ganze sogar in einer Gesamtl\u00e4nge von bis zu 6 Meter!",
+    "index": {
+      "title": "Sichtschutz f\u00fcr deinen Zaun",
+      "metaDescription": "Verst\u00e4rke deinen Zaun mit einem Drahtgeflecht, oder sch\u00fctze dich vor unerw\u00fcnschten Blicken mit unseren Sichtschutzmatten aus PVC oder Bambus. ",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei Zaun und Mauern",
+            "text": "Herzlich willkommen auf unserer Webseite Zaun und Mauern. Wir sind ein Online-Shop f\u00fcr hochwertige Z\u00e4une und Mauern, die den Schutz Ihres Grundst\u00fccks und Ihrer Privatsph\u00e4re gew\u00e4hrleisten. Unser Sortiment beinhaltet eine breite Auswahl an Draht- und Zaungeflechten sowie Sichtschutzmatten, die f\u00fcr jeden Bedarf und jeden Geschmack das passende Angebot bereithalten. Wir legen gro\u00dfen Wert auf Qualit\u00e4t und bieten daher nur Produkte von renommierten Herstellern an. \u00dcberzeugen Sie sich selbst und durchst\u00f6bern Sie unser Sortiment \u2013 wir freuen uns auf Ihre Bestellung!"
+          },
+          {
+            "title": "Draht & Zaungeflecht",
+            "text": "Entdecken Sie die Vielfalt an <a href=\"/kategorie/draht-zaungeflecht/\" title=\"Draht & Zaungeflecht\">Draht & Zaungeflecht</a> bei Zaunundmauern.de. Unsere robusten und langlebigen Draht- und Zaungeflechte eignen sich f\u00fcr eine Vielzahl von Anwendungen. Ob f\u00fcr den Garten, f\u00fcr den Einsatz auf Baustellen oder f\u00fcr den landwirtschaftlichen Bereich, unser Sortiment bietet Ihnen eine gro\u00dfe Auswahl an Draht- und Zaungeflechten, die Ihren Anforderungen gerecht werden. \u00dcberzeugen Sie sich selbst von unseren Produkten und bestellen Sie noch heute."
+          },
+          {
+            "title": "Sichtschutzmatten",
+            "text": "Schaffen Sie sich Ihre ganz private Oase mit den <a href=\"/kategorie/sichtschutzmatten/\" title=\"Sichtschutzmatten\">Sichtschutzmatten</a> von Zaunundmauern.de. Unsere hochwertigen Sichtschutzmatten bieten Ihnen nicht nur Schutz vor neugierigen Blicken, sondern auch eine angenehme optische Abtrennung. Ob f\u00fcr den Garten, die Terrasse oder den Balkon, wir bieten Ihnen eine gro\u00dfe Auswahl an Sichtschutzmatten in unterschiedlichen Gr\u00f6\u00dfen und Designs. Entdecken Sie jetzt unser Angebot und bestellen Sie online."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE | zaunundmauern.de",
-        "defaultMetaDescription": "Mit unseren Produkten von namenhaften Herstellern wie zum Beispiel Noor oder GAH Alberts bieten wir dir das Beste aus dem Bereich $KATEGORIE.",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Zaun & Sichtschutz | Online Shop",
+      "metaDescription": "In unserem Online Shop findest du nicht nur Drahtgeflecht f\u00fcr deinen Zaun, sondern auch Sichtschutz aus PVC oder Bambus zu einem g\u00fcnstigen Preis.",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "$HERSTELLER | Qualität zum fairen Preis",
-        "defaultMetaDescription": "Mit unseren Produkten von $HERSTELLER können wir die das beste aus dem Bereich Zaun & Sichtschutz bieten. Kaufe jetzt günstig online auf zaunundmauern.de.",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Zäune & Mauern",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Zäune & Mauern Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Zäune & Mauern Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Zaun & Sichtschutz | Hersteller \u00dcberblick",
+      "metaDescription": "Egal ob Drahtgeflecht, oder Sichtschutz f\u00fcr deinen Zaun - Unsere Produkte von Noor, GAH Alberts, Floraworld und vielen mehr zum fairen Preis.",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT",
+    "defaultMetaDescription": "Mit unserem Produkt $PRODUKT von dem namenhaften Hersteller $HERSTELLER, bieten wir dir das Beste aus dem Bereich $KATEGORIE. ",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE | zaunundmauern.de",
+    "defaultMetaDescription": "Mit unseren Produkten von namenhaften Herstellern wie zum Beispiel Noor oder GAH Alberts bieten wir dir das Beste aus dem Bereich $KATEGORIE.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "$HERSTELLER | Qualit\u00e4t zum fairen Preis",
+    "defaultMetaDescription": "Mit unseren Produkten von $HERSTELLER k\u00f6nnen wir die das beste aus dem Bereich Zaun & Sichtschutz bieten. Kaufe jetzt g\u00fcnstig online auf zaunundmauern.de.",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Z\u00e4une & Mauern",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Z\u00e4une & Mauern Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Z\u00e4une & Mauern Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
